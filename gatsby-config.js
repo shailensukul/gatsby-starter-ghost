@@ -34,20 +34,7 @@ module.exports = {
         siteUrl: config.siteUrl,
     },
     plugins: [
-       {
-        resolve: `gatsby-theme-ghost-dark-mode`,
-        options: {
-            // Set to true if you want your theme to default to dark mode (default: false)
-            // Note that this setting has an effect only, if
-            //    1. The user has not changed the dark mode
-            //    2. Dark mode is not reported from OS
-            defaultModeDark: false,
-            // If you want the defaultModeDark setting to take precedence
-            // over the mode reported from OS, set this to true (default: false)
-            // Note that user choice still takes precedence over this setting
-            overrideOS: false,
-        },
-    },
+
         {
             resolve: `gatsby-source-filesystem`,
             options: {
