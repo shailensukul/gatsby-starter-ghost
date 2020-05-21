@@ -1,10 +1,12 @@
 {
   "development": {
     "apiUrl": "https://author.onecupof.coffee",
-    "contentApiKey": "731874101a184da3d8d4a39d2b"
+    "contentApiKey": "731874101a184da3d8d4a39d2b",
+    "twitter": "shailensukul"
   },
   "production": {
     "apiUrl": "https://author.onecupof.coffee",
-    "contentApiKey": "731874101a184da3d8d4a39d2b"
+    "contentApiKey": "731874101a184da3d8d4a39d2b",
+    "twitter": "shailensukul"
   }
 }
