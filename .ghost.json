@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://author.onecupof.coffee",
+    "contentApiKey": "731874101a184da3d8d4a39d2b"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://author.onecupof.coffee",
+    "contentApiKey": "731874101a184da3d8d4a39d2b"
   }
 }
